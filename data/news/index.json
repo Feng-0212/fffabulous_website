@@ -48,5 +48,15 @@
     "cover": "",
     "pinned": false,
     "published": true
+  },
+  {
+    "id": "2026-e2e-server",
+    "date": "2026-09-12",
+    "category": "通知公告",
+    "title": "【验收】服务器后台全链路测试",
+    "summary": "验证自动部署闭环,验收后删除。",
+    "cover": "",
+    "pinned": false,
+    "published": true
   }
 ]
