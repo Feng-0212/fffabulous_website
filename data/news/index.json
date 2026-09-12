@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2026-biobuzz-kickoff",
+    "date": "2026-09-13",
+    "category": "���±���",
+    "title": "【示例】BIOBUZZ 赛季 Kickoff,我们来了",
+    "summary": "9 月 12 日,FTC 2026-2027 赛季 BIOBUZZ 正式发布。战队全员观看直播,随后围绕规则展开了第一轮策略讨论……",
+    "cover": "",
+    "pinned": false,
+    "published": true
+  },
+  {
+    "id": "2026-notice-semester",
+    "date": "2026-09-10",
+    "category": "通知公告",
+    "title": "【示例】本学期社团课安排与编程组课程表公布",
+    "summary": "本学期社团课每周一次,编程组同步开设 Java 基础到 FTC SDK 的系列课程,周末穿插 Real-Courses 关卡任务,请各位成员查收。",
+    "cover": "",
+    "pinned": true,
+    "published": true
+  },
+  {
+    "id": "2026-activity-recruit",
+    "date": "2026-09-05",
+    "category": "社团活动",
+    "title": "【示例】新学期招新圆满结束,欢迎新社员",
+    "summary": "本次招新共收到报名表六十余份,经过面谈与体验课,三十余名新同学加入社团。入门培训随后展开……",
+    "cover": "",
+    "pinned": false,
+    "published": true
+  },
+  {
+    "id": "2026-ftc-regional",
+    "date": "2026-03-01",
+    "category": "赛事报道",
+    "title": "【示例】FTC 区域赛圆满收官",
+    "summary": "经过一个赛季的努力,战队在区域赛中收获佳绩。感谢每一位社员的付出,也感谢指导老师与家长的支持……",
+    "cover": "",
+    "pinned": false,
+    "published": true
+  },
+  {
+    "id": "2026-activity-openhouse",
+    "date": "2026-01-15",
+    "category": "社团活动",
+    "title": "【示例】校科技节机器人展示人气爆棚",
+    "summary": "在校科技节上,社团展示了历赛季机器人并组织了现场体验环节,展台前人头攒动……",
+    "cover": "",
+    "pinned": false,
+    "published": true
+  }
+]

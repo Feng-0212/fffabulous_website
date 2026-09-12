@@ -1,0 +1,34 @@
+{
+  "school": "上海市浦东复旦附中分校",
+  "clubName": "FFFabulous 机器人社",
+  "clubNameEn": "FFFabulous Robotics Team",
+  "teamCode": "FTC 19726",
+  "slogan": "以代码与机械,构筑热爱",
+  "sloganEn": "FFFabulous Robotics Team · FTC 19726",
+  "heroNotice": "对机器人感兴趣?看看新人专区 →",
+  "email": "robotics@fffabulous.cn",
+  "emailPlaceholder": true,
+  "bilibili": { "name": "FFFabulous19726", "url": "https://space.bilibili.com/3494369585793898" },
+  "github": { "name": "FFFabulousRobotics", "url": "https://github.com/FFFabulousRobotics" },
+  "icp": "",
+  "domain": "fffabulous.top",
+  "aboutIntro": [
+    "FFFabulous 机器人社成立于 2018 年,是上海市浦东复旦附中分校的科技类学生社团。2020 年,社团正式注册成为 FIRST Tech Challenge(FTC)战队——FTC 19726,从此以战队建制参加赛季赛事。",
+    "社团现有成员 30 余人,下设编程组、工程组、设计组、外联组与操作手团队:从机械结构、控制程序到视觉设计、赛场操作,一台机器人的每一个环节,都由同学们亲手完成。",
+    "在 GitHub 上,完整保留着从 POWERPLAY(2022-23)、CENTERSTAGE(2023-24)、INTO THE DEEP(2024-25)到 DECODE(2025-26)四个赛季的比赛程序——每一行代码都出自社员之手。",
+    "我们相信,机器人比赛的意义不止于奖杯——把一个想法从图纸变成能动能打的机器,在这个过程中学会协作、坚持与创造,才是我们真正的收获。"
+  ],
+  "teacher": "【占位】指导老师",
+  "heroSlides": [
+    { "img": "", "caption": "【占位】战队合影——请替换为横版高清照片" },
+    { "img": "", "caption": "【占位】机器人特写" },
+    { "img": "", "caption": "【占位】比赛现场" }
+  ],
+  "stats": [
+    { "label": "年成立历史", "value": 8, "suffix": "" },
+    { "label": "累计获奖", "value": 12, "suffix": "项" },
+    { "label": "历届机器人", "value": 6, "suffix": "台" },
+    { "label": "社团成员", "value": 30, "suffix": "+" }
+  ],
+  "newbieBanner": "零基础也没关系,从第一行代码到赛场,我们陪你走完全程。"
+}

@@ -1,0 +1,14 @@
+[
+  { "group": "综合入门", "name": "Game Manual 0(中文版)", "desc": "FTC 设计圣经:设计、搭建、编程、比赛全流程通识", "url": "https://gm0.org/zh-cn/latest/" },
+  { "group": "综合入门", "name": "REV Robotics 官方文档", "desc": "官方硬件文档,含结构件组装与编程", "url": "https://docs.revrobotics.com/" },
+  { "group": "综合入门", "name": "FTC SDK 官方仓库", "desc": "FIRST 官方代码库与 wiki", "url": "https://github.com/FIRST-Tech-Challenge/FtcRobotController" },
+  { "group": "编程", "name": "Real-Courses 社内教程", "desc": "社员自编新手课程 Course 0-3(中英双语)", "url": "https://github.com/FFFabulousRobotics/Real-Courses" },
+  { "group": "编程", "name": "《Learn Java for FTC》", "desc": "Java 入门经典教材,作者官方渠道免费", "url": "https://github.com/alan412/LearnJavaForFTC" },
+  { "group": "编程", "name": "FTC SDK 中文环境搭建教程", "desc": "Android Studio + SDK 部署 Control Hub 全流程(仅 FTC 部分)", "url": "https://ftckb.lucasxl.com/tutorials/sdk/" },
+  { "group": "编程", "name": "国内镜像版 FTC SDK", "desc": "社内自维护 fork,依赖已替换国内镜像", "url": "https://github.com/FFFabulousRobotics/FtcRobotController" },
+  { "group": "编程", "name": "Limelight 视觉传感器中文文档", "desc": "AprilTag 识别与 AI 管线官方教程", "url": "https://docs.limelightvision.io/zh/" },
+  { "group": "编程", "name": "Brogan M. Pratt(YouTube)", "desc": "FTC 教练博主:策略、搭建与赛季规划(英文)", "url": "https://www.youtube.com/@BroganMPratt" },
+  { "group": "工程", "name": "Studica 底盘升级指南", "desc": "官方机器人底盘升级方案参考", "url": "https://www.studica.ca/en/ftc-robot-build-upgrades" },
+  { "group": "设计", "name": "FTC 机器人 Onshape 建模入门", "desc": "中文建模教学视频(B 站)", "url": "https://www.bilibili.com/video/BV17BJp65EUf/" },
+  { "group": "外联", "name": "战队 B 站空间", "desc": "FFFabulous19726 官方账号,比赛视频与日常", "url": "https://space.bilibili.com/3494369585793898" }
+]

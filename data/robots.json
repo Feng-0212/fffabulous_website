@@ -1,0 +1,158 @@
+[
+  {
+    "id": "bot-2026-a",
+    "name": "【占位】BIOBUZZ 一号机",
+    "season": "2026-2027",
+    "summary": "新赛季 BIOBUZZ 主力机,正在研发中",
+    "cover": "",
+    "story": "【占位】2026-2027 赛季 BIOBUZZ 主题机器人。设计目标与亮点将在赛季推进中补充:底盘方案、机构设计、得分策略。",
+    "specs": [
+      {
+        "k": "底盘形式",
+        "v": "【占位】"
+      },
+      {
+        "k": "驱动方式",
+        "v": "【占位】"
+      },
+      {
+        "k": "主要机构",
+        "v": "【占位】"
+      },
+      {
+        "k": "传感器",
+        "v": "【占位】"
+      },
+      {
+        "k": "控制系统",
+        "v": "REV Control Hub"
+      },
+      {
+        "k": "路径规划",
+        "v": "【占位】"
+      }
+    ],
+    "cad": {
+      "mode": "none",
+      "images": [],
+      "embedUrl": ""
+    },
+    "repo": {
+      "url": "",
+      "desc": ""
+    },
+    "codeSnippet": "",
+    "videoIds": [],
+    "photos": []
+  },
+  {
+    "id": "bot-2025-a",
+    "name": "【占位】DECODE 主力机",
+    "season": "2025-2026",
+    "summary": "DECODE 赛季主力机器人,区域赛出场",
+    "cover": "",
+    "story": "【占位】2025-2026 赛季 DECODE 主题机器人。本节内容待社团补充:设计目标、机构亮点、比赛表现。",
+    "specs": [
+      {
+        "k": "底盘形式",
+        "v": "【占位】四轮麦轮"
+      },
+      {
+        "k": "驱动方式",
+        "v": "【占位】"
+      },
+      {
+        "k": "主要机构",
+        "v": "【占位】"
+      },
+      {
+        "k": "传感器",
+        "v": "【占位】"
+      },
+      {
+        "k": "控制系统",
+        "v": "REV Control Hub"
+      }
+    ],
+    "cad": {
+      "mode": "none",
+      "images": [],
+      "embedUrl": ""
+    },
+    "repo": {
+      "url": "https://github.com/FFFabulousRobotics/FTC-2025-2026",
+      "desc": "DECODE ������������"
+    },
+    "codeSnippet": "",
+    "videoIds": [],
+    "photos": []
+  },
+  {
+    "id": "bot-2024-a",
+    "name": "【占位】INTO THE DEEP 主力机",
+    "season": "2024-2025",
+    "summary": "INTO THE DEEP 赛季机器人,带视觉识别",
+    "cover": "",
+    "story": "【占位】2024-2025 赛季 INTO THE DEEP 主题机器人。本节内容待社团补充。",
+    "specs": [
+      {
+        "k": "底盘形式",
+        "v": "【占位】四轮麦轮"
+      },
+      {
+        "k": "主要机构",
+        "v": "【占位】机械臂 + 夹爪"
+      },
+      {
+        "k": "传感器",
+        "v": "【占位】视觉摄像头"
+      },
+      {
+        "k": "控制系统",
+        "v": "REV Control Hub"
+      }
+    ],
+    "cad": {
+      "mode": "none",
+      "images": [],
+      "embedUrl": ""
+    },
+    "repo": {
+      "url": "https://github.com/FFFabulousRobotics/FTC-2024-2025",
+      "desc": "INTO THE DEEP 赛季比赛代码"
+    },
+    "codeSnippet": "",
+    "videoIds": [],
+    "photos": []
+  },
+  {
+    "id": "bot-2023-a",
+    "name": "【占位】CENTERSTAGE 主力机",
+    "season": "2023-2024",
+    "summary": "CENTERSTAGE 赛季机器人",
+    "cover": "",
+    "story": "【占位】2023-2024 赛季 CENTERSTAGE 主题机器人。本节内容待社团补充。",
+    "specs": [
+      {
+        "k": "底盘形式",
+        "v": "【占位】"
+      },
+      {
+        "k": "控制系统",
+        "v": "REV Control Hub"
+      }
+    ],
+    "cad": {
+      "mode": "none",
+      "images": [],
+      "embedUrl": ""
+    },
+    "repo": {
+      "url": "https://github.com/FFFabulousRobotics/FTC-2023-2024",
+      "desc": "CENTERSTAGE 赛季比赛代码"
+    },
+    "codeSnippet": "",
+    "videoIds": [],
+    "photos": []
+  }
+]

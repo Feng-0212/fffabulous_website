@@ -1,0 +1,24 @@
+[
+  {
+    "id": "album-2026-regional",
+    "title": "【占位】2026 区域赛现场",
+    "date": "2026-03-01",
+    "cover": "",
+    "photos": [
+      { "src": "", "caption": "【占位】 pit 区调试" },
+      { "src": "", "caption": "【占位】比赛瞬间" },
+      { "src": "", "caption": "【占位】颁奖合影" },
+      { "src": "", "caption": "【占位】赛后复盘" }
+    ]
+  },
+  {
+    "id": "album-2026-science-fair",
+    "title": "【占位】校科技节展示",
+    "date": "2026-01-15",
+    "cover": "",
+    "photos": [
+      { "src": "", "caption": "【占位】展台全景" },
+      { "src": "", "caption": "【占位】现场体验" }
+    ]
+  }
+]

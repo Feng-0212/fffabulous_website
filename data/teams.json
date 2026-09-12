@@ -1,0 +1,7 @@
+[
+  { "name": "编程组", "en": "PROGRAMMING", "duty": "负责机器人控制程序、自动程序与视觉识别" },
+  { "name": "工程组", "en": "ENGINEERING", "duty": "负责机械结构设计、加工装配与维护检修" },
+  { "name": "设计组", "en": "DESIGN", "duty": "负责 CAD 建模、机器人外观与宣传视觉设计" },
+  { "name": "外联组", "en": "OUTREACH", "duty": "负责赞助外联、赛事事务与公众号运营" },
+  { "name": "操作手", "en": "DRIVERS", "duty": "负责赛场操作、赛前调试与演练" }
+]
