@@ -438,6 +438,20 @@ const pages = {
 
   async newbie(site) {
     $("#newbieIntro").textContent = "从零基础到赛场,这里是你加入 FFFabulous 的第一站。";
+    // 资料下载
+    try {
+      const files = await fetchJSON("data/files.json");
+      const sec = $("#filesSection");
+      if (!files.length) { sec.style.display = "none"; }
+      else {
+        $("#filesList").innerHTML = files.map((f) => `
+          <div class="file-item">
+            <span class="f-icon">📄</span>
+            <div style="flex:1"><div class="f-name">${esc(f.name)}</div><div class="f-desc">${esc(f.desc || "")}</div></div>
+            ${f.file ? `<a class="btn sm primary" href="${esc(f.file)}" download>下载</a>` : `<span class="f-desc">即将上传</span>`}
+          </div>`).join("");
+      }
+    } catch { $("#filesSection").style.display = "none"; }
     $("#dirCards").innerHTML = `
       <div class="card dir-card"><div class="d-icon">💻</div><div class="d-en">PROGRAMMING</div><h3>编程</h3>
         <ul><li>机器人控制与自动程序</li><li>视觉识别与传感器</li><li>调试与数据分析</li></ul>
