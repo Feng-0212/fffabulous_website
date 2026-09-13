@@ -8,6 +8,13 @@
   { "group": "编程", "name": "国内镜像版 FTC SDK", "desc": "社内自维护 fork,依赖已替换国内镜像", "url": "https://github.com/FFFabulousRobotics/FtcRobotController" },
   { "group": "编程", "name": "Limelight 视觉传感器中文文档", "desc": "AprilTag 识别与 AI 管线官方教程", "url": "https://docs.limelightvision.io/zh/" },
   { "group": "编程", "name": "Brogan M. Pratt(YouTube)", "desc": "FTC 教练博主:策略、搭建与赛季规划(英文)", "url": "https://www.youtube.com/@BroganMPratt" },
+  { "group": "视觉", "name": "Limelight 神经网络入门", "desc": "Neural Classifier / Detector 管线官方入门教程", "url": "https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/getting-started-with-neural-networks" },
+  { "group": "视觉", "name": "训练自定义检测模型", "desc": "Limelight 官方教程:数据集 → Neural Network Trainer → 上传模型", "url": "https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/training-your-own-detector" },
+  { "group": "视觉", "name": "训练自定义分类模型", "desc": "官方分类器训练教程(数据集均衡与多样性技巧)", "url": "https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/training-your-own-classifier" },
+  { "group": "视觉", "name": "Limelight 官方训练笔记本", "desc": "官方 Colab 训练笔记本,按块运行完成模型训练", "url": "https://github.com/LimelightVision/notebooks/blob/main/limelight-detector-training-notebook.ipynb" },
+  { "group": "视觉", "name": "Limelight 3A 神经网络视频教程", "desc": "用神经网络识别游戏元素全流程(英文视频)", "url": "https://www.youtube.com/watch?v=QfndTnkWddM" },
+  { "group": "视觉", "name": "FTC 战队自训模型案例", "desc": "社区战队分享的 INTO THE DEEP 元素自训模型", "url": "https://www.reddit.com/r/FTC/comments/1fz79jp/limelight_custom_detector_model/" },
+  { "group": "视觉", "name": "HuskyLens 中文 Wiki", "desc": "AI 摄像头六大算法,支持机内直接学习物体分类", "url": "https://wiki.dfrobot.com.cn/_SKU_SEN0305_Gravity__HUSKYLENS_人工智能摄像头" },
   { "group": "工程", "name": "Studica 底盘升级指南", "desc": "官方机器人底盘升级方案参考", "url": "https://www.studica.ca/en/ftc-robot-build-upgrades" },
   { "group": "设计", "name": "FTC 机器人 Onshape 建模入门", "desc": "中文建模教学视频(B 站)", "url": "https://www.bilibili.com/video/BV17BJp65EUf/" },
   { "group": "外联", "name": "战队 B 站空间", "desc": "FFFabulous19726 官方账号,比赛视频与日常", "url": "https://space.bilibili.com/3494369585793898" }

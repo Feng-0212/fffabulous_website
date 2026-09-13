@@ -452,7 +452,7 @@ const pages = {
         <ul><li>赞助洽谈与外联</li><li>赛事报名事务</li><li>公众号与宣传</li></ul>
         <a class="btn btn-ghost btn-sm" href="https://gm0.org/zh-cn/latest/" target="_blank" rel="noopener">GM0 通识入门</a></div>`;
     const res = await fetchJSON("data/resources.json");
-    const groups = ["综合入门", "编程", "工程", "设计", "外联"].filter((g) => res.some((r) => r.group === g));
+    const groups = ["综合入门", "编程", "视觉", "工程", "设计", "外联"].filter((g) => res.some((r) => r.group === g));
     let g = groups[0];
     $("#resTabs").innerHTML = groups.map((x) => `<button class="chip ${x === g ? "active" : ""}" data-g="${x}">${x}</button>`).join("");
     $("#resList").innerHTML = "";
