@@ -45,7 +45,8 @@
     "group": "编程",
     "name": "Limelight 视觉传感器中文文档",
     "desc": "AprilTag 识别与 AI 管线官方教程",
-    "url": "https://docs.limelightvision.io/zh/"
+    "url": "https://docs.limelightvision.io/zh/",
+    "sub": "视觉"
   },
   {
     "group": "编程",
@@ -57,43 +58,50 @@
     "group": "编程",
     "name": "Limelight 神经网络入门",
     "desc": "Neural Classifier / Detector 管线官方入门教程",
-    "url": "https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/getting-started-with-neural-networks"
+    "url": "https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/getting-started-with-neural-networks",
+    "sub": "视觉"
   },
   {
     "group": "编程",
     "name": "训练自定义检测模型",
     "desc": "Limelight 官方教程:数据集 → Neural Network Trainer → 上传模型",
-    "url": "https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/training-your-own-detector"
+    "url": "https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/training-your-own-detector",
+    "sub": "视觉"
   },
   {
     "group": "编程",
     "name": "训练自定义分类模型",
     "desc": "官方分类器训练教程(数据集均衡与多样性技巧)",
-    "url": "https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/training-your-own-classifier"
+    "url": "https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/training-your-own-classifier",
+    "sub": "视觉"
   },
   {
     "group": "编程",
     "name": "Limelight 官方训练笔记本",
     "desc": "官方 Colab 训练笔记本,按块运行完成模型训练",
-    "url": "https://github.com/LimelightVision/notebooks/blob/main/limelight-detector-training-notebook.ipynb"
+    "url": "https://github.com/LimelightVision/notebooks/blob/main/limelight-detector-training-notebook.ipynb",
+    "sub": "视觉"
   },
   {
     "group": "编程",
     "name": "Limelight 3A 神经网络视频教程",
     "desc": "用神经网络识别游戏元素全流程(英文视频)",
-    "url": "https://www.youtube.com/watch?v=QfndTnkWddM"
+    "url": "https://www.youtube.com/watch?v=QfndTnkWddM",
+    "sub": "视觉"
   },
   {
     "group": "编程",
     "name": "FTC 战队自训模型案例",
     "desc": "社区战队分享的 INTO THE DEEP 元素自训模型",
-    "url": "https://www.reddit.com/r/FTC/comments/1fz79jp/limelight_custom_detector_model/"
+    "url": "https://www.reddit.com/r/FTC/comments/1fz79jp/limelight_custom_detector_model/",
+    "sub": "视觉"
   },
   {
     "group": "编程",
     "name": "HuskyLens 中文 Wiki",
     "desc": "AI 摄像头六大算法,支持机内直接学习物体分类",
-    "url": "https://wiki.dfrobot.com.cn/_SKU_SEN0305_Gravity__HUSKYLENS_人工智能摄像头"
+    "url": "https://wiki.dfrobot.com.cn/_SKU_SEN0305_Gravity__HUSKYLENS_人工智能摄像头",
+    "sub": "视觉"
   },
   {
     "group": "工程",

@@ -452,15 +452,20 @@ const pages = {
         <ul><li>赞助洽谈与外联</li><li>赛事报名事务</li><li>公众号与宣传</li></ul>
         <a class="btn btn-ghost btn-sm" href="https://gm0.org/zh-cn/latest/" target="_blank" rel="noopener">GM0 通识入门</a></div>`;
     const res = await fetchJSON("data/resources.json");
-    const groups = ["综合入门", "编程", "视觉", "工程", "设计", "外联"].filter((g) => res.some((r) => r.group === g));
+    const groups = ["综合入门", "编程", "工程", "设计", "外联"].filter((g) => res.some((r) => r.group === g));
     let g = groups[0];
     $("#resTabs").innerHTML = groups.map((x) => `<button class="chip ${x === g ? "active" : ""}" data-g="${x}">${x}</button>`).join("");
     $("#resList").innerHTML = "";
     function renderRes() {
-      $("#resList").innerHTML = `<div class="grid grid-3">${res.filter((r) => r.group === g).map((r) => `
-        <a class="card" href="${esc(r.url)}" target="_blank" rel="noopener"><div class="c-body" style="gap:8px">
-          <div class="c-title">🔗 ${esc(r.name)}</div><div class="c-desc">${esc(r.desc)}</div>
-        </div></a>`).join("")}</div>`;
+      const items = res.filter((r) => r.group === g);
+      const subs = [...new Set(items.map((r) => r.sub || ""))];
+      $("#resList").innerHTML = subs.map((s) => {
+        const list = items.filter((r) => (r.sub || "") === s);
+        return `${s ? `<div class="res-subhead">${esc(s)}</div>` : ""}<div class="grid grid-3">${list.map((r) => `
+          <a class="card" href="${esc(r.url)}" target="_blank" rel="noopener"><div class="c-body" style="gap:8px">
+            <div class="c-title">🔗 ${esc(r.name)}</div><div class="c-desc">${esc(r.desc)}</div>
+          </div></a>`).join("")}</div>`;
+      }).join("");
     }
     $$("#resTabs .chip").forEach((b) => b.addEventListener("click", () => {
       g = b.dataset.g;
